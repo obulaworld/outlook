@@ -1,0 +1,39 @@
+.mailFirstSectionMails {
+  display: flex;
+  padding: 1.5rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.mailFirstSectionMailsActive {
+  background-color: #d8f9ff;
+}
+
+.mailSubjectAvtive {
+  color: #0d78d5;
+}
+
+.mailFirstSectionImage {
+  margin-right: 2.375rem;
+}
+
+.mailFirstSectionText {
+  display: flex;
+  flex-direction: column;
+  width: 34.375rem;
+}
+
+.mailHeader,
+.mailMessage {
+  color: #bdbdbd;
+}
+
+.mailHeader {
+  margin-bottom: 1rem;
+}
+
+.mailSubject {
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}

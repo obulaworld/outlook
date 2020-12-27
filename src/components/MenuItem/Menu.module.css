@@ -1,0 +1,18 @@
+.menuItem {
+  margin-bottom: 0.625rem;
+  display: flex;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  padding-bottom: 1rem;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon {
+  width: 20px;
+  margin-right: 1rem;
+  height: 20px;
+  font-size: 14px;
+}
